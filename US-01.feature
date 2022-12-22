@@ -1,6 +1,6 @@
-Feature: Verify "View All Vehicles" To Click Box work as expected
+Feature: Vehicles for rent
 
-Scenario: Verify type of "Cars" exist to choose after click "View All Vehicles"
+Scenario: Verify in Vehicles for rent and cars suv trucks and vans for AWD & 4x4 Cars 4-8 people 3-7 Bags
 
 Given user navigates to the home page "https://www.enterprise.com/en/home.html"
 Then user verifies if "View All Vehicles" tab exist
